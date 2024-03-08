@@ -3,6 +3,12 @@ Tolga M. Duman is a Professor of Electrical and Electronics Engineering Departme
 
 Dr. Duman is a Fellow of IEEE and a member of The Science Academy (in Turkey). He is a recipient of the U.S. National Science Foundation CAREER Award, IEEE Third Millennium Medal and Distinguished Teaching Award from Bilkent University. His publications include a book on MIMO Communications (by Wiley in 2007), about 100 journal papers, and close to 150 conference papers. He served as an editor for IEEE Trans. on Wireless Communications (2003-08; 2016-2019), IEEE Trans. on Communications (2007-2012), IEEE Communications Surveys and Tutorials (2002-07), and Elsevier’s Physical Communication Journal (2010-2016); he has served as the Coding and Information Theory Area Editor of IEEE Trans. on Communications for 2011-2019, and he was the Editor in Chief of Elsevier’s Physical Communications Journal (2016-2019). He is currently the Editor in Chief of IEEE Trans. on Communications.
 
+Current members of the CTAR Lab can be found at http://ctar.bilkent.edu.tr/index.php/current-members/.
+
+# Publications
+Google Scholar: https://scholar.google.com/citations?user=Jog_ShUAAAAJ&hl=en
+IEEE: https://ieeexplore.ieee.org/author/37280967000
+
 # Current Projects
 1) ERC Advanced Grant, TRANCIDS: Transmission over Channels with Insertions and Deletions
 Sponsor: European Commission; Period: October 2022 – September 2027.
