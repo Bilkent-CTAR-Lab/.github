@@ -1,4 +1,4 @@
-# .github
+# Information
 
 Tolga M. Duman is a Professor of Electrical and Electronics Engineering Department at Bilkent University, in Turkey. He received the B.S. degree from Bilkent University, Ankara, Turkey, in 1993, and the M.S. and Ph.D. degrees from Northeastern University, Boston, MA, USA, in 1995 and 1998, respectively, all in electrical engineering. Prior to joining Bilkent University in September 2012, he was with the School of ECEE at Arizona State University as Assistant Professor from 1998 to 2004, Associate Professor from 2004 to 2008, and Professor after 2008. His current research interests are in systems, with a particular focus on communication and signal processing, including wireless and mobile communications, coding/modulation, coding for wireless communications, and machine learning.
 
